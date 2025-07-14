@@ -33,7 +33,7 @@ Here is what our original design looked like:
 ![hsdh](assets/od.png)\
 ![fdsj](assets/os.png)
 
-I really wanted to use this design but it just wasnt meant to be.
+I really wanted to use this design but it just wasnt meant to be. (OnShape made the constraints explode after modifying the dimensions of the aluminum extrusion because the parts didn't fit in it and because of this we decided it would be easier to start over rather than going through the entire timeline and fixing all of the references.)
 
 
 
@@ -103,3 +103,28 @@ It uses interupt functions for the button presses and ony really does basic thin
  - Wires/Cables
 
 
+## Wiring
+
+![wiring diagram](assets/wiring.png)
+
+Here is a list of wiring connections:
+ - (Stepper driver) 1A -> (Stepper motor) A-
+ - (Stepper driver) 2A -> (Stepper motor) A+
+ - (Stepper driver) 1B -> (Stepper motor) B-
+ - (Stepper driver) 2B -> (Stepper motor) B+
+
+ - (Stepper driver) Step -> (Pi Pico) GP1
+ - (Stepper driver) DIR -> (Pi Pico) GP0
+ - (Stepper driver) Sleep -> (Stepper driver) Rst
+ - (Stepper driver) GND -> GND (pi pico and 9v battery)
+ - (Stepper driver) VMOT -> Switch -> 9V batt +
+ - (Stepper driver) VDD -> (Pi Pico) 5V
+ - (Stepper driver) MS2 (enable5Vs 4x microstepping to make it quieter) -> 5V
+ 
+ - Button 1 -> GP3 and GND
+ - Button 2 -> GP2 and GND
+ - LEDs -> 3V3 and GND
+
+ - (Servo) V+ -> 3V3
+ - (Servo) GND -> GND
+ - (Servo) SIG -> GP28
