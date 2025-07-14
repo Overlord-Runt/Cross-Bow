@@ -11,6 +11,10 @@
  - 9x 3D Printed Parts
  - 8x Noodle Lights
  - 10x Zip Ties
+ - 2x MX Switches
+ - 2x Keycaps
+ - 3x M3D5L4 Heatsets
+ - 7x M3 Screws
  - 200mm String
  - 2 Rubber Bands
  - Hot Glue
