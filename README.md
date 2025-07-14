@@ -8,6 +8,15 @@ This is a automated (partially) crossbow that @Overlord-Runt and @Person20020 bu
 
 Anyways we may or may not shoot Paolo with this
 
+## HOW DOES THIS WORK?
+This thing is a crossbow that is automated(mostly) with 2 buttons. It uses one button to retract the peg and lock it, the other to shoot.
+
+The retraction retracts the peg, uses the servo to lock it in place and then unwinds the roll to let the line slack fully. this makes it so the line doesnt add any resistance when you fire the crossbow
+
+The second button just orders the servo to release the peg so the rubber bands can pull it and shoot the ammunition
+
+You will however need to load it yourself. that is the one manual part.
+
 ## CAD
 We went through a lot of redesigns for the gun and 1 redeign for the crossbow. Im only gonna show the crossbow sides because the gun isnt relevant.
 
@@ -30,7 +39,11 @@ I really wanted to use this design but it just wasnt meant to be.
 
 ## FIRMWARE
 
-Copilot is the absolute goat
+Copilot is the absolute goat. Together with the help of copilot, we busted out the code in under 2 hours. Kinda annoying when it gets stuff wrong but relatively good.
+
+Its in a normal arduino code file and is about 100 lines long(i pressed enter 5 times). Most of our effort was put into engineering this thing to work so the firmware isnt that special.
+
+It uses interupt functions for the button presses and ony really does basic things
 
 ## HOW TO BUILD
 1. Print all the parts
