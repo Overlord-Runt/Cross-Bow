@@ -76,7 +76,8 @@ It uses interupt functions for the button presses and ony really does basic thin
 28. adjust length so the peg reaches the cross
 29. Add pegs for the rubber bands to the ends of the cross and hold it down by any means nesasary. we used wires, zip ties, and supporting pieces
 30. Flash Firmware
-31. Adjust and tune to your individual specs(can change)
+31. Roll up the paper and use as darts
+32. Adjust and tune to your individual specs(can change)
 
 
 ## BOM
