@@ -16,7 +16,7 @@ Here is our Finished Model. Amazing isnt it?
 
 Here are some more angles vvvvv\
 ![bdfshak](assets/ff.png)\
-![fshgjk](assets/fs.png)
+![fshgjk](assets/ft.png)
 
 
 Here is what our original design looked like:
