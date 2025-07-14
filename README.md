@@ -9,7 +9,22 @@ This is a automated (partially) crossbow that @Overlord-Runt and @Person20020 bu
 Anyways we may or may not shoot Paolo with this
 
 ## CAD
+We went through a lot of redesigns for the gun and 1 redeign for the crossbow. Im only gonna show the crossbow sides because the gun isnt relevant.
 
+![boo](assets/f1.png)\
+Here is our Finished Model. Amazing isnt it?
+
+Here are some more angles vvvvv\
+![bdfshak](assets/ff.png)\
+![fshgjk](assets/fs.png)
+
+
+Here is what our original design looked like:
+
+![hsdh](assets/od.png)\
+![fdsj](assets/of.png)
+
+I really wanted to use this design but it just wasnt meant to be.
 
 
 
