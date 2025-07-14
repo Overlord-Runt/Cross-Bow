@@ -20,6 +20,8 @@ You will however need to load it yourself. that is the one manual part.
 ## CAD
 We went through a lot of redesigns for the gun and 1 redeign for the crossbow. Im only gonna show the crossbow sides because the gun isnt relevant.
 
+[Here](https://cad.onshape.com/documents/79b833b4b24cffffebd604ad/w/256becd92e53a803af045f39/e/8e88023c2a8db95c2bac765c?renderMode=0&uiState=687518183a18b90ddda72896) is the full build
+
 ![boo](assets/f1.png)\
 Here is our Finished Model. Amazing isnt it?
 
