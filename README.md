@@ -22,7 +22,7 @@ Here are some more angles vvvvv\
 Here is what our original design looked like:
 
 ![hsdh](assets/od.png)\
-![fdsj](assets/of.png)
+![fdsj](assets/os.png)
 
 I really wanted to use this design but it just wasnt meant to be.
 
