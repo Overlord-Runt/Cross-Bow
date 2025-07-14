@@ -7,6 +7,29 @@ This is a automated (partially) crossbow that @Overlord-Runt and @Person20020 bu
 ## FIRMWARE
 
 ## HOW TO BUILD
+1. Print all the parts
+2. Push the Heatsets into the Slot Connector
+3. Slide the slot connector onto the middle of one extrusion and use a screw to hold it down
+4. Attach the second extrusion normal to the first and hold down with screws
+5. Slide in the Battery Box to the joint
+6. Slide in the handle to the bottom of the T Frame
+7. Hot Glue all crrent connections to secure them down
+8. Attach the cross to the horizontal extrusion and Hot glue down
+9. slide the peg into the top channel
+10. slide the servo mount onto the side of the channel
+11. Screw the stepper motor onto the mount
+12. attach the spool to the stepper's rod
+13. slide the mount onto the extrusion
+14. Hot glue it down
+15. Ensure the Servo Mount is 125mm away from the cross and hot glue down
+16. Use zip ties and wires to brig all wires into the handle
+17. Add an extra 4 wires through the switch holes(2 per hole)
+18. ensure the wire pokes out/ is reachable from the outside
+19. Wire the parts to the pico from the bottom of the handle as shown in the wiring diagram
+20. Solder the whole thing
+21. Push the pico into the handle, usb port side facing outwards
+22. 
+
 
 ## BOM
 
