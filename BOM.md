@@ -19,3 +19,4 @@
  - 2 Rubber Bands
  - Hot Glue
  - Wires/Cables
+ - A4 Paper(ammunition)
