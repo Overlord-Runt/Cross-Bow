@@ -28,7 +28,16 @@ This is a automated (partially) crossbow that @Overlord-Runt and @Person20020 bu
 19. Wire the parts to the pico from the bottom of the handle as shown in the wiring diagram
 20. Solder the whole thing
 21. Push the pico into the handle, usb port side facing outwards
-22. 
+22. Pull out switch wires and solder to switches
+23. Click Switches into handle
+24. Put keycaps on switches
+25. Melt the servo arm to any servo cross bit
+26. screw it to the servo and screw the servo into the mount
+27. tie the string to the peg and the other end to the spool
+28. adjust length so the peg reaches the cross
+29. Add pegs for the rubber bands to the ends of the cross and hold it down by any means nesasary. we used wires, zip ties, and supporting pieces
+30. Flash Firmware
+31. Adjust and tune to your individual specs(can change)
 
 
 ## BOM
