@@ -4,6 +4,8 @@
 
 This is a automated (partially) crossbow that @Overlord-Runt and @Person20020 built together for Undercity.
 
+![hdhdhf](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ccbba387b2fe59b23e0ada68f6608fbf864ebffb_1000012817.jpg)
+
 ## Inspiration
 
 @Overlord-Runt - I come from a place where its illegal to make weapons. So Now in the land of the free, it became my mission to make a gun. And the original plan was to make a gun. However, we ran into a few roadblocks, First we had 2 steppers but only 1 driver and that 1 driver did not feel like it could deliver enough power to feul both without blowing. so at the end of day 2 we did a complete restart and started making a crossbow instead. We had a model done by the start of day 3 but it kept failing and by the end of day 3, we did extreme simplifications and min maxxed it to print as fast as possible and hopefully not fail.
