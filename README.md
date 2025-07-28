@@ -49,7 +49,7 @@ Copilot is the absolute goat. Together with the help of copilot, we busted out t
 
 Its in a normal arduino code file and is about 100 lines long(i pressed enter 5 times). Most of our effort was put into engineering this thing to work so the firmware isnt that special.
 
-It uses interupt functions for the button presses and ony really does basic things
+It uses interupt functions for the button presses and only really does basic things
 
 ## HOW TO BUILD
 1. Print all the parts
